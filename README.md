@@ -1,3 +1,14 @@
+# Netflix Clone with ReactJS
+
+A Netflix clone built using React.
+
+## Author
+
+Hamza Özgezici (Zyzz294)
+
+# Demo
+
+The app is deployed using Vercel at [Netflix Clone Link](https://netflix-clone-a0821.web.app/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
